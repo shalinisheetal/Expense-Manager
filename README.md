@@ -14,5 +14,20 @@
             <li><b>Chart.js</b>: for graphical visualisation</li>
             <li><b>Heroku</b>: for deployment</li>
         </ul>
+        <ul>
+            <h3>App features</h3>
+            <li><b>ADD EXPENSES</b>: Specify the expense made, the date, it's category and the amount of expense.</li>
+            <center>
+                <img src="https://github.com/shalinisheetal/Expense-Manager/blob/master/images/Add.png?raw=true" height="300px" style="display: block;">
+            </center>
+            <li><b>VIEW EXPENSES</b>: See all your expenses in detail.</li>
+            <center>
+                <img src="https://github.com/shalinisheetal/Expense-Manager/blob/master/images/View.png?raw=true">
+            </center>
+            <li><b>SEE BREAKDOWN</b>: Get a graphical breakdown of your expenses. Look out for where you spent the most!</li>
+            <center>
+                <img src="https://github.com/shalinisheetal/Expense-Manager/blob/master/images/Breakdown.png?raw=true">
+            </center>
+        </ul>
     </body>
 </html>
