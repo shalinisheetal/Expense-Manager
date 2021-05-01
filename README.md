@@ -22,11 +22,11 @@
             </center>
             <br><li><b>VIEW EXPENSES</b>: See all your expenses in detail.</li><br>
             <center>
-                <img src="https://github.com/shalinisheetal/Expense-Manager/blob/master/images/View.png?raw=true">
+                <img src="https://github.com/shalinisheetal/Expense-Manager/blob/master/images/View.png?raw=true" height="400px">
             </center>
             <br><li><b>SEE BREAKDOWN</b>: Get a graphical breakdown of your expenses. Look out for where you spent the most!</li><br>
             <center>
-                <img src="https://github.com/shalinisheetal/Expense-Manager/blob/master/images/Breakdown.png?raw=true">
+                <img src="https://github.com/shalinisheetal/Expense-Manager/blob/master/images/Breakdown.png?raw=true" height="400px">
             </center>
         </ul>
     </body>
