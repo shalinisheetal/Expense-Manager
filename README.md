@@ -1,6 +1,6 @@
 <html>
     <body>
-        <img style="display: inline;margin-left: 200px;" src="https://lh3.googleusercontent.com/ikbN8scDWum2l6zGkmBrLFMsxOQvzTZT6UcIAYJ_dxBDAv9Ub7YE640cliaooDiWMzs=w512-h512" height = 100>
+        <img style="margin-left: 200px;" src="https://lh3.googleusercontent.com/ikbN8scDWum2l6zGkmBrLFMsxOQvzTZT6UcIAYJ_dxBDAv9Ub7YE640cliaooDiWMzs=w512-h512" height = 100>
         <h1 style="display: inline;">Expense Manager</h1>
         <br>APP link : <a href="https://mybudgetmanagerapp.herokuapp.com/">"https://mybudgetmanagerapp.herokuapp.com/"</a>
         <p>It is a basic web application which helps to manage expenses by giving a breakdown analysis of money spent on various categories.</p>
