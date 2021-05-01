@@ -16,15 +16,15 @@
         </ul>
         <ul>
             <h3>App features</h3>
-            <li><b>ADD EXPENSES</b>: Specify the expense made, the date, it's category and the amount of expense.</li>
+            <li><b>ADD EXPENSES</b>: Specify the expense made, the date, it's category and the amount of expense.</li><br>
             <center>
-                <img src="https://github.com/shalinisheetal/Expense-Manager/blob/master/images/Add.png?raw=true" height="300px" style="display: block;">
+                <img src="https://github.com/shalinisheetal/Expense-Manager/blob/master/images/Add.png?raw=true">
             </center>
-            <li><b>VIEW EXPENSES</b>: See all your expenses in detail.</li>
+            <br><li><b>VIEW EXPENSES</b>: See all your expenses in detail.</li><br>
             <center>
                 <img src="https://github.com/shalinisheetal/Expense-Manager/blob/master/images/View.png?raw=true">
             </center>
-            <li><b>SEE BREAKDOWN</b>: Get a graphical breakdown of your expenses. Look out for where you spent the most!</li>
+            <br><li><b>SEE BREAKDOWN</b>: Get a graphical breakdown of your expenses. Look out for where you spent the most!</li><br>
             <center>
                 <img src="https://github.com/shalinisheetal/Expense-Manager/blob/master/images/Breakdown.png?raw=true">
             </center>
